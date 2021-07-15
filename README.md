@@ -1,6 +1,6 @@
 # Escape-From-The-Soviet-Union
 
-<img src=https://user-images.githubusercontent.com/68134973/125730989-ae450415-da74-4e2a-b73b-22370aee1499.png width=500 height=500>
+<img src=https://user-images.githubusercontent.com/68134973/125730989-ae450415-da74-4e2a-b73b-22370aee1499.png width=300 height=300>
 
 A strategy game in which you try to escape the USSR and Warsaw Pact nations while avoiding KGB agents. This game was made for the 2021 Historically Accurate Gamejam #3 (theme: cold war).
 
